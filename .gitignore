@@ -1,0 +1,7 @@
+# Ignorar todos os arquivos .log
+*.pyc
+*.sql
+/venv
+baixa_arquivo_openai.py
+teste_threads_openai.py
+recebeMensagem/media_key.py

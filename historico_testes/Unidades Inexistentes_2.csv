@@ -1,0 +1,19 @@
+AUTOR_ID_AUTOR,CONTEUDO
+0,"Olá Bena, tudo bem? Percebi que você não compareceu à sua avaliação gratuita no dia 2023-11-01, às 10:00, na unidade PSD. Gostaria de reagendar?"
+0,"Entendi, para a unidade Paulista no dia 16/12/2023, sábado, os horários disponíveis são: 08:00, 12:00, 14:00, 16:00. Qual desses horários seria melhor para você?"
+0,"Entendi, você gostaria de agendar na unidade de Perus. Infelizmente, não temos uma unidade nessa região. No entanto, temos outras unidades disponíveis próximas a você. As unidades mais próximas ao cliente e seus endereços, em ordem de proximidade, são:
+
+1. Unidade Freguesia do Ó
+   Endereço: Avenida Itaberaba, 2787-A, São Paulo
+
+2. Unidade Alphaville
+   Endereço: Alameda Grajaú, 129, Barueri
+
+3. Unidade Osasco
+   Endereço: Av. dos Autonomistas, 896, Osasco
+
+Por favor, nos informe se deseja agendar em alguma dessas unidades ou se precisar de mais alguma informação."
+0,"Desculpe, para essa unidade não temos esse horário, existe outra data ou horário que seja conveniente para você?"
+1,sim
+1,quero mudar para a unidade Perus
+1,"perfeito, pode ser na Freguesia"
